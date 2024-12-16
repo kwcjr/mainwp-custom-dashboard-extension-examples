@@ -21,7 +21,7 @@
 #mainwp-top-header > div > div.center.aligned.middle.aligned.column > a {
 	display: block;
 	height: 72px !important;
-	background-image: url('https://com.klbs.host/wp-content/uploads/2023/08/console-2.png') !important; 
+	background-image: url('PATH/TO/YOUR/LOGO')!important; 
 	background-size: contain;
 	background-repeat: no-repeat;
 }
